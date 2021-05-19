@@ -7,7 +7,7 @@ Scenes from various movie clips can be segmented by obtaining their intensity hi
   - Compare histograms by calculating the distance between them (with any of the above mentioned distance metrics) and a threshold obtained     via experimentation
   - Group frames into scenes accordingly
  
-Results are in the form of a list of annotations containing the start and end frames of each segmented scene. A pre-defined list of annotations for each clip in the dataset provied below may be used as a reference for the results. A bried report is also included showcasing and discussing the results of a sample clip which was segmented.
+Results are in the form of a list of annotations containing the start and end frames of each segmented scene. A pre-defined list of annotations for each clip in the dataset provied below may be used as a reference for the results. A brief report is also included showcasing and discussing the results of a sample clip which was segmented.
 
 **Dataset**
 
